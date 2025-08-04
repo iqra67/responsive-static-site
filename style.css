@@ -1,0 +1,37 @@
+
+/* Home Page */
+body.index-page .navbar,
+body.index-page footer {
+  background-color: #fc27c0 !important; /* Bootstrap Pink*/
+}
+
+/* About Page */
+body.about-page .navbar,
+body.about-page footer {
+  background-color: #04ffd5 !important; /* Bootstrap Blue*/
+  
+}
+
+/* Team Page */
+body.team-page .navbar,
+body.team-page footer {
+  background-color: #ddab06c6 !important; /* Bootstrap Copper */
+}
+
+/* Product Page */
+body.product-page .navbar,
+body.product-page footer {
+  background-color: #0d6efd !important; /* Bootstrap Blue */
+}
+
+/* Services Page */
+body.services-page .navbar,
+body.services-page footer {
+  background-color: #20c997 !important; /* Bootstrap Teal */
+}
+
+/* Contact Page */
+body.contact-page .navbar,
+body.contact-page footer {
+  background-color: #fd7e14 !important; /* Bootstrap Orange */
+}
